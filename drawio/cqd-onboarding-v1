@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T18:09:30.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ixjprt1U3tnu7xu_Yidn" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T18:13:41.297Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="3snlVWu7MoRvO5a_6qPX" version="16.2.4" type="github">
   <diagram id="dvCe6Vx6a57DVbcBIRaS" name="Page-1">
     <mxGraphModel dx="3796" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="390" y="15" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3O11yREEZothrzQFcWAo-13" value="" style="group;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" connectable="0" parent="3O11yREEZothrzQFcWAo-2">
-          <mxGeometry x="420" y="510" width="560" height="60" as="geometry" />
+          <mxGeometry x="420" y="525" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3O11yREEZothrzQFcWAo-14" value="Build, Analyze, process and Store/index events and data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;" vertex="1" parent="3O11yREEZothrzQFcWAo-13">
           <mxGeometry width="560" height="60" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="10" y="5" width="41.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3O11yREEZothrzQFcWAo-16" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="3O11yREEZothrzQFcWAo-2">
-          <mxGeometry x="420" y="420" width="560" height="60" as="geometry" />
+          <mxGeometry x="420" y="435" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3O11yREEZothrzQFcWAo-17" value="Stream Events" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="3O11yREEZothrzQFcWAo-16">
           <mxGeometry width="560" height="60" as="geometry" />
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="3O11yREEZothrzQFcWAo-35" value="Activate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3O11yREEZothrzQFcWAo-2">
           <mxGeometry x="180" y="340" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3O11yREEZothrzQFcWAo-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3O11yREEZothrzQFcWAo-2" source="3O11yREEZothrzQFcWAo-33" target="3O11yREEZothrzQFcWAo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3O11yREEZothrzQFcWAo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3O11yREEZothrzQFcWAo-2" source="3O11yREEZothrzQFcWAo-17" target="3O11yREEZothrzQFcWAo-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3O11yREEZothrzQFcWAo-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-470" y="235" width="70" height="620" as="geometry" />
