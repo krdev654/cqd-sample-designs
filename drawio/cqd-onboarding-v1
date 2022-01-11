@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T17:34:00.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nNw_Wjdaeaqy0uexOGtc" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T18:09:30.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ixjprt1U3tnu7xu_Yidn" version="16.2.4" type="github">
   <diagram id="dvCe6Vx6a57DVbcBIRaS" name="Page-1">
-    <mxGraphModel dx="3796" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3796" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="3O11yREEZothrzQFcWAo-13" value="" style="group;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" connectable="0" parent="3O11yREEZothrzQFcWAo-2">
           <mxGeometry x="420" y="510" width="560" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3O11yREEZothrzQFcWAo-14" value="Build, Analyze, process and Sore Events/Data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;" vertex="1" parent="3O11yREEZothrzQFcWAo-13">
+        <mxCell id="3O11yREEZothrzQFcWAo-14" value="Build, Analyze, process and Store/index events and data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;" vertex="1" parent="3O11yREEZothrzQFcWAo-13">
           <mxGeometry width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3O11yREEZothrzQFcWAo-15" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;fontColor=#000000;" vertex="1" parent="3O11yREEZothrzQFcWAo-13">
