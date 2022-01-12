@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T19:27:20.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZQYevo3kiokHbjNP4a0H" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T19:28:48.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="w-3rkA04ZK-dwCpU87qw" version="16.2.4" type="github">
   <diagram id="_DK03GbpNIv0gi9T_E4w" name="Page-1">
     <mxGraphModel dx="3796" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="ZVmLWIIbA3r1RL0WZa9F-71" value="Stream Events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZVmLWIIbA3r1RL0WZa9F-73">
           <mxGeometry x="1695" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVmLWIIbA3r1RL0WZa9F-95" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.alarm;" vertex="1" parent="ZVmLWIIbA3r1RL0WZa9F-73">
+          <mxGeometry x="1850.47" y="1088.5" width="28.000000000000004" height="28.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="ZVmLWIIbA3r1RL0WZa9F-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1650" y="340" width="280" height="109" as="geometry" />
@@ -291,6 +294,16 @@
             <mxPoint x="1600" y="850" as="targetPoint" />
             <Array as="points">
               <mxPoint x="920" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVmLWIIbA3r1RL0WZa9F-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVmLWIIbA3r1RL0WZa9F-67" target="ZVmLWIIbA3r1RL0WZa9F-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="760" as="sourcePoint" />
+            <mxPoint x="1460" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2650" y="1170" />
+              <mxPoint x="2650" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
